@@ -54,6 +54,8 @@ public class Gato {
 
     @Override
     public String toString() {
+
+        
         return "Gato{" +
                 "nome='" + nome + '\'' +
                 ", cor='" + cor + '\'' +
